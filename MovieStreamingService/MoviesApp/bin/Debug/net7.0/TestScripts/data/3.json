@@ -1,0 +1,22 @@
+{
+    "genre": {
+        "genreId": "C",
+        "name": "Comedy"
+    },
+    "genreId": "C",
+    "movieId": 3,
+    "name": "Annie Hall",
+    "productionStudio": {
+        "name": "Rollins and Joffe Productions",
+        "productionStudioId": 3
+    },
+    "productionStudioId": 3,
+    "rating": 5,
+    "streamingPartnerInfo": {
+        "streamingPartnerInfoId": 3,
+        "streamingRightsRequestUrl": null,
+        "streamingStatus": 2
+    },
+    "streamingPartnerInfoId": 3,
+    "year": 1977
+}

@@ -1,0 +1,18 @@
+{
+    "genre": {
+        "genreId": "C",
+        "name": "Comedy"
+    },
+    "genreId": "C",
+    "movieId": 4,
+    "name": "Coconuts",
+    "productionStudio": {
+        "name": "Warner Brothers",
+        "productionStudioId": 1
+    },
+    "productionStudioId": 1,
+    "rating": 3,
+    "streamingPartnerInfo": null,
+    "streamingPartnerInfoId": null,
+    "year": 1955
+}

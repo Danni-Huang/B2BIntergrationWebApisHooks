@@ -1,0 +1,387 @@
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\appsettings.Development.json
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\appsettings.json
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\MoviesApp.staticwebassets.runtime.json
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\MoviesApp.exe
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\MoviesApp.deps.json
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\MoviesApp.runtimeconfig.json
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\MoviesApp.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\MoviesApp.pdb
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Azure.Core.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Azure.Identity.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Humanizer.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.CodeDom.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.Memory.Data.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.csproj.AssemblyReference.cache
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.AssemblyInfoInputs.cache
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.AssemblyInfo.cs
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.csproj.CoreCompileInputs.cache
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.MvcApplicationPartsAssemblyInfo.cache
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.RazorAssemblyInfo.cache
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.RazorAssemblyInfo.cs
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\obj\Debug\net7.0\staticwebassets\msbuild.MoviesApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\obj\Debug\net7.0\staticwebassets\msbuild.build.MoviesApp.props
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MoviesApp.props
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MoviesApp.props
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\obj\Debug\net7.0\scopedcss\bundle\MoviesApp.styles.css
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\obj\Debug\net7.0\scopedcss\projectbundle\MoviesApp.bundle.scp.css
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.csproj.CopyComplete
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\obj\Debug\net7.0\refint\MoviesApp.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.pdb
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.genruntimeconfig.cache
+C:\peter\src\PROG73020-code\problem-analyses\pa2\MovieStreamingService\MoviesApp\obj\Debug\net7.0\ref\MoviesApp.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\appsettings.Development.json
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\appsettings.json
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\MoviesApp.staticwebassets.runtime.json
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\MoviesApp.exe
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\MoviesApp.deps.json
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\MoviesApp.runtimeconfig.json
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\MoviesApp.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\MoviesApp.pdb
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Azure.Core.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Azure.Identity.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Humanizer.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.CodeDom.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.Memory.Data.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.csproj.AssemblyReference.cache
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.AssemblyInfoInputs.cache
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.AssemblyInfo.cs
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.csproj.CoreCompileInputs.cache
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.MvcApplicationPartsAssemblyInfo.cache
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.RazorAssemblyInfo.cache
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.RazorAssemblyInfo.cs
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\staticwebassets\msbuild.MoviesApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\staticwebassets\msbuild.build.MoviesApp.props
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MoviesApp.props
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MoviesApp.props
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\scopedcss\bundle\MoviesApp.styles.css
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\scopedcss\projectbundle\MoviesApp.bundle.scp.css
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.csproj.CopyComplete
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\refint\MoviesApp.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.pdb
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.genruntimeconfig.cache
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\ref\MoviesApp.dll
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\TestScripts\data\1.json
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\TestScripts\data\2.json
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\TestScripts\data\3.json
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\TestScripts\data\4.json
+C:\peter\src\PROG73020-code\problem-analyses\pa2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Newtonsoft.Json.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\appsettings.Development.json
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\appsettings.json
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\TestScripts\data\1.json
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\TestScripts\data\2.json
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\TestScripts\data\3.json
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\TestScripts\data\4.json
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\MoviesApp.staticwebassets.runtime.json
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\MoviesApp.exe
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\MoviesApp.deps.json
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\MoviesApp.runtimeconfig.json
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\MoviesApp.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\MoviesApp.pdb
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Azure.Core.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Azure.Identity.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Humanizer.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Mono.TextTemplating.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Newtonsoft.Json.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.CodeDom.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.Memory.Data.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.Runtime.Caching.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.Security.Permissions.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.Windows.Extensions.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.csproj.AssemblyReference.cache
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.AssemblyInfoInputs.cache
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.AssemblyInfo.cs
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.csproj.CoreCompileInputs.cache
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.MvcApplicationPartsAssemblyInfo.cache
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.RazorAssemblyInfo.cache
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.RazorAssemblyInfo.cs
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\staticwebassets\msbuild.MoviesApp.Microsoft.AspNetCore.StaticWebAssets.props
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\staticwebassets\msbuild.build.MoviesApp.props
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MoviesApp.props
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MoviesApp.props
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\staticwebassets.pack.json
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\staticwebassets.build.json
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\staticwebassets.development.json
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\scopedcss\bundle\MoviesApp.styles.css
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\scopedcss\projectbundle\MoviesApp.bundle.scp.css
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.csproj.CopyComplete
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\refint\MoviesApp.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.pdb
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.genruntimeconfig.cache
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\soln\MovieStreamingService\MoviesApp\obj\Debug\net7.0\ref\MoviesApp.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.csproj.AssemblyReference.cache
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.AssemblyInfoInputs.cache
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.AssemblyInfo.cs
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.csproj.CoreCompileInputs.cache
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.MvcApplicationPartsAssemblyInfo.cache
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.RazorAssemblyInfo.cache
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.RazorAssemblyInfo.cs
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\obj\Debug\net7.0\refint\MoviesApp.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.pdb
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\appsettings.Development.json
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\appsettings.json
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\MoviesApp.staticwebassets.runtime.json
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\MoviesApp.exe
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\MoviesApp.deps.json
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\MoviesApp.runtimeconfig.json
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\MoviesApp.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\MoviesApp.pdb
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Azure.Core.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Azure.Identity.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Humanizer.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Mono.TextTemplating.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Newtonsoft.Json.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.CodeDom.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.Memory.Data.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.Runtime.Caching.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.Security.Permissions.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.Windows.Extensions.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\obj\Debug\net7.0\staticwebassets\msbuild.MoviesApp.Microsoft.AspNetCore.StaticWebAssets.props
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\obj\Debug\net7.0\staticwebassets\msbuild.build.MoviesApp.props
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MoviesApp.props
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MoviesApp.props
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\obj\Debug\net7.0\staticwebassets.pack.json
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\obj\Debug\net7.0\staticwebassets.build.json
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\obj\Debug\net7.0\staticwebassets.development.json
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\obj\Debug\net7.0\scopedcss\bundle\MoviesApp.styles.css
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\obj\Debug\net7.0\scopedcss\projectbundle\MoviesApp.bundle.scp.css
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.csproj.CopyComplete
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.genruntimeconfig.cache
+G:\My Drive\python\college-code\PROG3170-code\assignments\asst2\starting-code\MovieStreamingService\MoviesApp\obj\Debug\net7.0\ref\MoviesApp.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\appsettings.json
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\MoviesApp.staticwebassets.runtime.json
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\MoviesApp.exe
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\MoviesApp.deps.json
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\MoviesApp.runtimeconfig.json
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\MoviesApp.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\MoviesApp.pdb
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.csproj.AssemblyReference.cache
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.AssemblyInfoInputs.cache
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.AssemblyInfo.cs
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.csproj.CoreCompileInputs.cache
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.RazorAssemblyInfo.cache
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.RazorAssemblyInfo.cs
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\obj\Debug\net7.0\staticwebassets\msbuild.MoviesApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\obj\Debug\net7.0\staticwebassets\msbuild.build.MoviesApp.props
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MoviesApp.props
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MoviesApp.props
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\obj\Debug\net7.0\scopedcss\bundle\MoviesApp.styles.css
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\obj\Debug\net7.0\scopedcss\projectbundle\MoviesApp.bundle.scp.css
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.csproj.CopyComplete
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\obj\Debug\net7.0\refint\MoviesApp.dll
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.pdb
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\obj\Debug\net7.0\MoviesApp.genruntimeconfig.cache
+C:\Users\Danni Huang\OneDrive\Desktop\TO DO\DHAssignment2_PROG3170\MovieStreamingService\MoviesApp\obj\Debug\net7.0\ref\MoviesApp.dll

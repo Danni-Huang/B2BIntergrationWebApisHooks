@@ -1,0 +1,18 @@
+﻿@model NewStreamingPartnerRequest
+
+@{
+    ViewData["Title"] = "Add new Streaming Partner";
+}
+
+
+<form asp-controller="Webhook" asp-action="AddNewStreamingPartner" method="post">
+
+    <div class="form-group">
+        <label for="partnerUrl">URL to receive notifications for new moive:</label>
+        <input type="text" id="partnerUrl" name="partnerUrl" class="form-control" required>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Add</button>
+    <a asp-controller="Home" asp-action="" class="btn btn-primary">Cancel</a>
+</form>
+

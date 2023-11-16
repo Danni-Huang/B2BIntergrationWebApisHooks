@@ -1,0 +1,18 @@
+﻿@model PartnerViewModel
+
+@{
+    ViewData["Title"] = "Streaming partner details";
+}
+
+<div>
+    <p>
+        <a asp-controller="Home" asp-action="Index">Home</a> 
+        <span class="mx-1">|</span>
+        <a asp-controller="Movie" asp-action="GetAllMovies">movies</a> 
+        <span class="mx-1">|</span>
+        <a asp-controller="Partner" asp-action="StreamPartnerAddRequest">Add a Streaming Partner</a>
+    </p>
+</div>
+
+<div><p><span style="font-weight: bold; font-style: italic;">API Key: </span>@Model.ApiKey</p></div>
+<div><p><span style="font-weight: bold; font-style: italic;">New movie notification URL: </span>@Model.WebhookURL</p></div>

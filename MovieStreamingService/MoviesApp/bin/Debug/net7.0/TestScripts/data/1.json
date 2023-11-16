@@ -1,0 +1,22 @@
+{
+    "genre": {
+        "genreId": "D",
+        "name": "Drama"
+    },
+    "genreId": "D",
+    "movieId": 1,
+    "name": "Casablanca",
+    "productionStudio": {
+        "name": "Warner Brothers",
+        "productionStudioId": 1
+    },
+    "productionStudioId": 1,
+    "rating": 5,
+    "streamingPartnerInfo": {
+        "streamingPartnerInfoId": 1,
+        "streamingRightsRequestUrl": null,
+        "streamingStatus": 2
+    },
+    "streamingPartnerInfoId": 1,
+    "year": 1942
+}

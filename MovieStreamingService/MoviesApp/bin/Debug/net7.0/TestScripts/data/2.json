@@ -1,0 +1,22 @@
+{
+    "genre": {
+        "genreId": "A",
+        "name": "Action"
+    },
+    "genreId": "A",
+    "movieId": 2,
+    "name": "Apocalypse Now",
+    "productionStudio": {
+        "name": "Omni Zoetrope",
+        "productionStudioId": 4
+    },
+    "productionStudioId": 4,
+    "rating": 4,
+    "streamingPartnerInfo": {
+        "streamingPartnerInfoId": 2,
+        "streamingRightsRequestUrl": null,
+        "streamingStatus": 2
+    },
+    "streamingPartnerInfoId": 2,
+    "year": 1979
+}

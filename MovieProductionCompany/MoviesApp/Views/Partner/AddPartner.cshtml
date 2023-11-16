@@ -1,0 +1,17 @@
+﻿@model PartnerViewModel
+
+@{
+    ViewData["Title"] = "Add new streaming partner";
+}
+
+<form asp-controller="Partner" asp-action="AddPartnerWebhook" method="post" enctype="application/x-www-form-urlencoded">
+    <div class="text-danger" asp-validation-summary="All"></div>
+
+    <p>URL to receive notification for new movies</p>
+    <div class="form-group">
+        <input type="text" asp-for="WebhookURL" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Add</button>
+    <a asp-controller="Home" asp-action="Index" class="btn btn-primary">Cancel</a>
+</form>
